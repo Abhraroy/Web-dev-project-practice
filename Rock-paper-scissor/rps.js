@@ -209,7 +209,7 @@ document.addEventListener('DOMContentLoaded', function() {
             showmove(displayrpsp,displayrpsc);
             showresult();
             scoreupdate();
-        }, 2000);
+        }, 1000);
         a = true;
         console.log("a=1");
     }else{
